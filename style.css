@@ -1,0 +1,21 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: 0px;
+}
+.menu-bar{
+    background-color: gray;
+    height: 35px;
+}
+.function-bar{
+    background-color: aqua;
+    height: 35px;   
+}
+.cells{
+    background-color: wheat;
+    height:  calc(100vh - 100px);
+}
+.sheets{
+    background-color: maroon;
+    height: 30px;
+}
